@@ -1,0 +1,124 @@
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+
+
+
+
+
+
+
+body {  /*this is for main body*/
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #000000;
+	background: #000000 url(../img/backgroundkayu.jpg);
+	background-repeat:repeat-x;
+}
+
+
+#page
+{ /*navcontainer*/
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 670px;
+}
+
+.topNavigationLink
+{ /*fornavigation*/
+text-align:center;
+position:relative;
+margin-top:30px;
+font-size:16px;
+margin-left:-10px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color:#000000;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+
+.topNavigationLink a
+{ /*this css created for text hyperlink*/
+    
+text-decoration:none;
+color:#000000;
+margin-bottom:0px;
+}
+
+.topNavigationLink a:hover
+{ /*this css for cursor when touch the nav */
+text-align:center;
+color:#FFFFFF;
+display: block;
+width:121px;
+height: 35px;
+line-height: 35px;
+background-image:url(../img/tab.png);
+border-bottom:none;
+}
+
+#mainPicture
+{ /*picture*/
+clear:both;
+width:670px;
+height:345px;
+background-color:#000000;
+}
+
+#mainPicture .picture
+{ /*bannerpicture.container*/
+position:relative;
+width:650px;
+height:325px;
+top:10px;
+margin-left:10px;
+background-image:url(../img/makanansehatyangampuhmencegahmelenahalodoc.jpg);
+background-repeat:no-repeat;
+}
+
+#headerTitle
+{ /*Title banner*/
+position:relative;
+top:14px;
+left:22px;
+font-size:27px;
+color:#000000;
+font-family:serif;
+font: bold;
+font-size: 50px;
+}
+
+#headerSubtext
+{ /*Subtitle banner*/
+position:relative;
+top:12px;
+left:22px;
+font-size:14px;
+color:#000000;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+
+
+
+
+
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+
