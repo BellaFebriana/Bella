@@ -1,0 +1,108 @@
+
+
+
+
+
+
+.static 
+{
+    position: static;
+    border: 3px solid #543535
+    
+}
+
+
+
+.bagian1
+{
+    text-indent: 20px;
+
+}
+
+.bagian2
+{
+    text-indent: 20px;
+}
+
+.bagian3
+{
+    text-indent: 20px;
+}
+
+
+
+
+
+
+.gambar
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+        
+}
+
+
+
+.Boxcontent
+{ /*containercontent*/
+margin-top:10px;
+width:1200px;
+height:auto;
+background-color:#000000;
+}
+
+
+
+
+.Boxcontent .inner
+{
+position:relative;
+width:1180px;
+height:auto;
+top:10px;
+margin-left:10px;
+background-image:url(contentBack.png);
+background-color:#FFFFFF;
+background-repeat:repeat-x;
+}
+
+
+h1
+{
+font-size:35px;
+margin-bottom:10px;
+padding-top:18px;
+margin-left:15px;
+margin-top:15px;
+color:#1F1603;
+}
+
+.contentText
+{
+font-size:13px;
+line-height:24px;
+margin-left:13px;
+margin-right:13px;
+}
+
+.contentText img
+{
+width:330px;
+height: 200px;
+align-content: center;
+    
+    
+}
+
+
+
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+
