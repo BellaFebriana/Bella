@@ -122,4 +122,15 @@ p {text-align: left;}
     }
 }
 
+@media (min-width: 880px) and (max-width: 1000px){
+    .Boxcontent .inner{
+        background-color:brown;
+        float: right;
+        width: 98%;
+    }
+}
+
+
+
+
 
