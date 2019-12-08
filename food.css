@@ -106,3 +106,12 @@ text-align: center;
 p {text-align: left;}
 
 
+@media (max-width: 500px){
+   .Boxcontent .inner{
+        background-color:burlywood;
+        float:center;
+        width:98%;
+    }
+}
+
+
