@@ -114,4 +114,12 @@ p {text-align: left;}
     }
 }
 
+@media (min-width: 500px) and (max-width: 880px){
+    .Boxcontent .inner{
+        background-color:coral;
+        float: center;
+        width: 98%;
+    }
+}
+
 
